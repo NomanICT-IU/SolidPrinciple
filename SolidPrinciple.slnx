@@ -1,6 +1,8 @@
 <Solution>
   <Project Path="LSP/LSP.csproj" Id="c93793dc-411f-4273-a5b1-025aa3eb6ebd" />
   <Project Path="OCP/OCP.csproj" Id="09244afe-e949-4086-8609-f19e341790db" />
+  <Project Path="SalaryCalculatorByOCP/SalaryCalculatorByOCP.csproj" Id="3fe8e5ff-fabc-4ac9-ac4f-a248ee95611e" />
+  <Project Path="SalaryCalculatorSalaryByOCP/SalaryCalculatorSalaryByOCP.csproj" Id="d0acf4b3-c443-4816-ae8e-bf0d691b1ca7" />
   <Project Path="SingleResponsiblity/SingleResponsiblity.csproj" Id="8a80d8c7-5256-403c-bb0f-6930b8f3b698" />
   <Project Path="SRP/SRP.csproj" />
 </Solution>
