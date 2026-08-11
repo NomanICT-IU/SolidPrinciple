@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="LiskovSubstitution/LiskovSubstitution.csproj" Id="fb5ef69d-400a-4f20-b2b2-9c7dc45fac25" />
   <Project Path="LSP/LSP.csproj" Id="c93793dc-411f-4273-a5b1-025aa3eb6ebd" />
   <Project Path="OCP/OCP.csproj" Id="09244afe-e949-4086-8609-f19e341790db" />
   <Project Path="SalaryCalculatorBasedOnOCP/SalaryCalculatorBasedOnOCP.csproj" Id="89f041a6-f727-4219-adee-dcb46dfed82b" />
