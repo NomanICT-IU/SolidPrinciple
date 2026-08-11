@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="LSP/LSP.csproj" Id="c93793dc-411f-4273-a5b1-025aa3eb6ebd" />
   <Project Path="OCP/OCP.csproj" Id="09244afe-e949-4086-8609-f19e341790db" />
+  <Project Path="SingleResponsiblity/SingleResponsiblity.csproj" Id="8a80d8c7-5256-403c-bb0f-6930b8f3b698" />
   <Project Path="SRP/SRP.csproj" />
 </Solution>
